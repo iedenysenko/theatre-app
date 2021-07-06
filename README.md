@@ -36,8 +36,8 @@ Simple REST application that represents the work of the theatre, where user can 
 **2.** Configure Tomcat Server
 
 **3.** Setup new connection in "src/main/resources/db.properties" with:
-- USERNAME: "your username"
-- PASSWORD: "your password"
+- USERNAME: your username
+- PASSWORD: your password
 - URL: jdbc:mysql://xxxx:yyyy/kkkk?serverTimezone=UTC , where:
     * xxxx - host name,
     * yyyy - port,
