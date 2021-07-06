@@ -1,4 +1,4 @@
-package theatre;
+package theatre.util;
 
 import java.util.Set;
 import javax.annotation.PostConstruct;
